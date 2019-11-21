@@ -1,0 +1,6 @@
+Linguagem de programação de alto nível lançada em 1991 por Guido Van Rossum.
+Java
+Python
+Fortran
+C++
+B
